@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Metaverse Knowledge Kit',
-  tagline: 'Seamlessly build your Metaverse on Klaytn',
+  title: '뭔근타버스여',
+  tagline: '',
   //@ts-ignore
   url: process.env.URL,
   baseUrl: '/',
