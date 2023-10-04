@@ -147,14 +147,6 @@ const config = {
             title: '구독눌러주세요알림설정해주세요감사합니다',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/klaytn_official',
-              },
-              {
-                label: 'Dev Twitter',
-                href: 'https://twitter.com/BuildonKlaytn',
-              },
-              {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/groups/klaytndevelopers',
               },
