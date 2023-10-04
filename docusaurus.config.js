@@ -144,7 +144,7 @@ const config = {
             ],
           },
           {
-            title: 'Follow us on Social Media',
+            title: '구독눌러주세요알림설정해주세요감사합니다',
             items: [
               {
                 label: 'Twitter',
