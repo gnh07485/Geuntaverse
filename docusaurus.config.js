@@ -159,7 +159,7 @@ const config = {
                 href: 'https://www.facebook.com/groups/klaytndevelopers',
               },
               {
-                label: 'Reddit',
+                label: '레딧에서 좋은 반응을 얻다.',
                 href: 'https://www.reddit.com/r/klaytn/',
               },
               {
