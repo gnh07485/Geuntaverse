@@ -71,7 +71,7 @@ const config = {
     ({
       image: 'img/klaytn.png',
       navbar: {
-        title: 'Metaverse Knowledge Kit',
+        title: '근타버스 커밋하지말라고',
         logo: {
           alt: 'Klaytn Logo',
           src: 'img/klaytn.png',
